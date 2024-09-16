@@ -1,5 +1,4 @@
-# Hanan
-Hey there, it's a pleasure to meet you! 
+# Hanan 
 <h1 align="center">Hi 👋, I'm Hanan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
